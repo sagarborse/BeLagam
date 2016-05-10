@@ -1,0 +1,3 @@
+2016-05-09 23:55:15 - PHP Notice:  Undefined index: xml in /Applications/MAMP/htdocs/belagam/admin/model/extension/modification.php on line 4
+2016-05-09 23:55:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/belagam/admin/index.php:80) in /Applications/MAMP/htdocs/belagam/system/library/response.php on line 12
+2016-05-10 0:10:42 - PHP Notice:  Undefined index: custom_email_config in /Applications/MAMP/htdocs/belagam/admin/view/template/module/pavnewsletter/config.tpl on line 57
