@@ -42,6 +42,37 @@
 	    </div>
   	</div><!-- end container -->
 </nav>
+
+
+<header id="header-main" class="header-main same-height-column">
+	<div class="inner"><div class="container">	
+		<div class="row">
+			<div class="col-md-6 col-sm-4 col-xs-4 column">	
+				<?php if( $logoType=='logo-theme'){ ?>
+				<div id="logo-theme" class="logo-store">
+					<a href="<?php echo $home; ?>">
+						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" style="height: 80px;" class="img-responsive cool" />
+					</a>
+				</div>
+				<?php } elseif ($logo) { ?>
+				<div id="logo" class="logo-store">
+					<a href="<?php echo $home; ?>">
+						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" style="height: 80px;" class="img-responsive cool" />
+					</a>
+				</div>
+				<?php } ?>									
+			</div>
+			<div class="col-md-6 col-sm-8 col-xs-8 column">								
+				<div class="shopping-cart pull-right text-right">
+					<?php echo $cart; ?>
+				</div>	
+				<?php echo $search; ?>			
+			</div>
+		</div>
+	</div></div>
+</header> 		  
+	
+
 <!-- { megamenu -->				 
 <div id="pav-mainnav" class="mainnav">
 	<div class="container"><div class="row">
@@ -101,35 +132,6 @@
 	</div></div>
 </div>				
 <!-- { megamenu -->	
-<header id="header-main" class="header-main same-height-column">
-	<div class="inner"><div class="container">	
-		<div class="row">
-			<div class="col-md-6 col-sm-4 col-xs-4 column">	
-				<?php if( $logoType=='logo-theme'){ ?>
-				<div id="logo-theme" class="logo-store">
-					<a href="<?php echo $home; ?>">
-						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" />
-					</a>
-				</div>
-				<?php } elseif ($logo) { ?>
-				<div id="logo" class="logo-store">
-					<a href="<?php echo $home; ?>">
-						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" />
-					</a>
-				</div>
-				<?php } ?>									
-			</div>
-			<div class="col-md-6 col-sm-8 col-xs-8 column">								
-				<div class="shopping-cart pull-right text-right">
-					<?php echo $cart; ?>
-				</div>	
-				<?php echo $search; ?>			
-			</div>
-		</div>
-	</div></div>
-</header> 		  
-	
-
 
 
 	

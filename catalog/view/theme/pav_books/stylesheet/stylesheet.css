@@ -648,7 +648,7 @@ body.layout-boxed-lg #page {
   padding-top: 5px;*/
 }
 .header-main .inner {
-  background: #6f9426;
+  background: #322f2e;
 }
 .header-main .column {
   height: 85px;
@@ -1077,12 +1077,15 @@ body.layout-boxed-lg #page {
   border: none;
   color: #acacac;
   height: 36px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -ms-border-radius: 20px;
-  -o-border-radius: 20px;
-  border-radius: 20px;
 }
+.cool {
+  background: #050000 !important;
+}
+
+.cool:hover {
+  background: #cd3232 !important;
+}
+
 #search .button-search {
   cursor: pointer;
   border: none;
@@ -1090,12 +1093,8 @@ body.layout-boxed-lg #page {
   right: 0;
   top: 0;
   color: #fff;
-  background: #574629;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%;
+  background: #cd3232;
+  border-radius: 0%;
   width: 36px;
   height: 36px;
 }
