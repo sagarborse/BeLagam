@@ -780,9 +780,6 @@ pre code {
   width: 100%;
 }
 @media (min-width: 768px) {
-  .container {
-    max-width: 750px;
-  }
   .col-sm-1,
   .col-sm-2,
   .col-sm-3,
@@ -933,9 +930,6 @@ pre code {
   }
 }
 @media (min-width: 992px) {
-  .container {
-    max-width: 970px;
-  }
   .col-md-1,
   .col-md-2,
   .col-md-3,
@@ -1095,9 +1089,6 @@ pre code {
   }
 }
 @media (min-width: 1200px) {
-  .container {
-    max-width: 1170px;
-  }
   .col-lg-1,
   .col-lg-2,
   .col-lg-3,
@@ -3540,11 +3531,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-left: -10px;
 }
 @media (min-width: 768px) {
-  .container > .navbar-header,
-  .container > .navbar-collapse {
-    margin-right: 0;
-    margin-left: 0;
-  }
+
 }
 .navbar-static-top {
   border-width: 0 0 1px;
@@ -3620,6 +3607,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
   padding-bottom: 10px;
   line-height: 17px;
 }
+
+@media (max-width: 1200px) {
+#header-main {display: none}
+#pav-mainnav{margin:0px !important;}
+}
+
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
     position: static;

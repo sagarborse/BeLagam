@@ -2924,6 +2924,10 @@ ul.box-filter span {
 .pavo-widget li a:hover {
   background-position: 5px -25px !important;
 }
+
+.pav-megamenu .pav-megamenu {
+  margin-left: 200px;
+}
 /******************************************************
  * @package Pav Opencart Theme Framework for Opencart 1.5.x
  * @version 1.1

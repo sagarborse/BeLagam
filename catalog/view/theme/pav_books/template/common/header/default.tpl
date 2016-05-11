@@ -55,16 +55,16 @@ if(!$is_mobile) {
 
 <header id="header-main" class="header-main same-height-column">
 	<div class="inner" style="height:60px;position: fixed;z-index: 100000;width:100%"><div class="container">	
-		<div class="row">
+		<div class="row" style="width:100%">
 			<div class="col-md-6 col-sm-4 col-xs-4 column gel">	
 				<?php if( $logoType=='logo-theme'){ ?>
-				<div id="logo-theme" class="logo-store" style="height: 122px; background: #cd3232; z-index: 100000; position: absolute; width: 208px; background-position: center;transition: all .3s;padding: 20px; border-radius: 0 0 4px 4px;box-shadow: 0px 1px 15px 2px rgba(100,100,100,0.49);">
+				<div id="logo-theme" class="logo-store" style="height: 122px; background: #cd3232; z-index: 100000; position: absolute; width: 208px; background-position: center;transition: all .3s;padding: 20px; border-radius: 0 0 4px 4px;box-shadow: 0px 1px 15px 2px rgba(100,100,100,0.49);margin-top: -42px;">
 					<a href="<?php echo $home; ?>">
 						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" style="height: 80px;" class="img-responsive" />
 					</a>
 				</div>
 				<?php } elseif ($logo) { ?>
-				<div id="logo" class="logo-store" style="height: 122px; background: #cd3232; z-index: 100000; position: absolute; width: 208px; background-position: center;transition: all .3s;padding: 20px; border-radius: 0 0 4px 4px;box-shadow: 0px 1px 15px 2px rgba(100,100,100,0.49);">
+				<div id="logo" class="logo-store" style="height: 122px; background: #cd3232; z-index: 100000; position: absolute; width: 208px; background-position: center;transition: all .3s;padding: 20px; border-radius: 0 0 4px 4px;box-shadow: 0px 1px 15px 2px rgba(100,100,100,0.49);margin-top: -42px;">
 					<a href="<?php echo $home; ?>">
 						<img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" style="height: 80px;" class="img-responsive" />
 					</a>
@@ -84,8 +84,8 @@ if(!$is_mobile) {
 	
 <?php } ?>
 <!-- { megamenu -->				 
-<div id="pav-mainnav" class="mainnav" style="margin-left:290px;z-index:1000001">
-	<div class="container"><div class="row">
+<div id="pav-mainnav" class="mainnav" style="z-index:1000001">
+	<div class="container"><div class="row" >
 		<div class="pav-megamenu col-md-12 col-sm-12 col-xs-12">			
 			<button data-toggle="offcanvas" class="canvas-menu hidden-lg hidden-md" type="button"><span class="fa fa-bars"></span> Menu</button>
 			<?php

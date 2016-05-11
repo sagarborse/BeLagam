@@ -30,3 +30,31 @@
 2016-05-11 11:55:49 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/pavo-asset/e7a0290b45ade71b436583e146e50956.css): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 73
 2016-05-11 11:55:49 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 74
 2016-05-11 11:55:49 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 76
+2016-05-11 22:22:53 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/cache.product.bestseller.1.0.1.5.1462989173): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 49
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 51
+2016-05-11 22:22:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 53
+2016-05-11 22:22:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 55
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 57
+2016-05-11 22:22:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 59
+2016-05-11 22:22:53 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/cache.product.bestseller.1.0.1.5.1462989173): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 49
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 51
+2016-05-11 22:22:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 53
+2016-05-11 22:22:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 55
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 57
+2016-05-11 22:22:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 59
+2016-05-11 22:22:53 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/cache.language.1462989173): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 49
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 51
+2016-05-11 22:22:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 53
+2016-05-11 22:22:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 55
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 57
+2016-05-11 22:22:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 59
+2016-05-11 22:22:53 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/cache.currency.1462989173): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 49
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 51
+2016-05-11 22:22:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 53
+2016-05-11 22:22:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 55
+2016-05-11 22:22:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 57
+2016-05-11 22:22:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/library/cache/file.php on line 59
+2016-05-11 22:22:53 - PHP Warning:  mkdir(): No such file or directory in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 28
+2016-05-11 22:22:53 - PHP Warning:  fopen(/Applications/MAMP/htdocs/belagam/system/cache/pavo-asset/6fcf47cc37efec3566ba6cf3ac27ed19.css): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 73
+2016-05-11 22:22:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 74
+2016-05-11 22:22:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/belagam/system/pavothemes/cache.php on line 76
