@@ -42,6 +42,19 @@ $(document).ready(function() {
 			element.addClass('has-error');
 		}
 	});
+
+	$(document).scroll(function(){
+		if ($(this).scrollTop()>175){
+			// animate fixed div to small size:
+			$('#logo-theme img').stop().animate({ height: 40 },100);
+			$('#logo-theme').stop().animate({ height: 60, width : 100, padding: 10, marginTop: -26},100);
+
+		} else {
+			//  animate fixed div to original size
+			$('#logo-theme img').stop().animate({ height: 80},100);
+			$('#logo-theme').stop().animate({ height: 122, width: 208, padding: 20, marginTop: 0 },100);
+		}
+	});
 		
 	// Currency
 	$('#currency .currency-select').on('click', function(e) {

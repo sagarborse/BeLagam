@@ -727,7 +727,8 @@ body.layout-boxed-lg #page {
   margin-bottom: -37px;
 }
 #footer .footer-center {
-  background: url("../image/bg_footer_center.png") repeat 0 0;
+ /* background: url("../image/bg_footer_center.png") repeat 0 0;*/
+  background: #272e3a;
 }
 #footer .footer-center .inner {
   padding: 60px 0 20px;
@@ -754,7 +755,7 @@ body.layout-boxed-lg #page {
 /* POWER BY */
 #powered {
   clear: both;
-  background: #201a10;
+  background: #171211;
   padding: 30px 0;
   color: #b4b7b8;
 }
@@ -1067,16 +1068,18 @@ body.layout-boxed-lg #page {
 #search {
   position: relative;
   /*margin-right: 20px;*/
-  width: 400px;
+  width: 350px;
   position: relative;
-  left: -30%;
+  left: -45%;
+  height:40px;
 }
 #search input {
   background-color: #fff;
   padding: 0 10px;
   border: none;
   color: #acacac;
-  height: 36px;
+  height: 40px;
+  font-size: 15px;
 }
 .cool {
   background: #050000 !important;
@@ -1085,7 +1088,9 @@ body.layout-boxed-lg #page {
 .cool:hover {
   background: #cd3232 !important;
 }
-
+html, body {
+  min-width: 1200px;
+}
 #search .button-search {
   cursor: pointer;
   border: none;
@@ -1095,8 +1100,8 @@ body.layout-boxed-lg #page {
   color: #fff;
   background: #cd3232;
   border-radius: 0%;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
 }
 /* 
  * box products 
@@ -2689,7 +2694,7 @@ ul.box-filter span {
   padding-left: 15px;
 }
 #pav-mainnav .navbar ul.nav > li:hover {
-  border-top: 4px solid #6f9426;
+  border-top: 4px solid #cd3232;
 }
 #pav-mainnav .navbar ul.nav > li:hover .caret {
   border-bottom-color: #6f9426;
@@ -2730,7 +2735,7 @@ ul.box-filter span {
 }
 #pav-mainnav .dropdown-menu {
   padding: 20px;
-  border: 3px solid #6f9426;
+  border: 3px solid #cd3232;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   -ms-border-radius: 0;
@@ -2929,7 +2934,7 @@ ul.box-filter span {
 *******************************************************/
 .same-height-column .row {
   display: table;
-  width: 100%;
+  /*width: 100%;*/
 }
 .same-height-column .row [class*="col-"] {
   display: table-cell;
@@ -3414,6 +3419,12 @@ div.required .control-label:before {
     margin-top: 15px;
   }
 }
+
+
+  #header-main {
+    height:60px;
+  }
+
 /*@media (max-width: 480px){*/
 @media (max-width: 480px) {
   .sidebar-offcanvas {

@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://belagam/');
+define('HTTP_SERVER', 'http://belagam.local/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://belagam/');
+define('HTTPS_SERVER', 'http://belagam.local/');
 
 // DIR
 define('DIR_APPLICATION', '/Applications/MAMP/htdocs/belagam/catalog/');

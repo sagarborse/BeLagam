@@ -73,11 +73,12 @@
     <div class="inner">
       <div class="copyright pull-left">
         <?php if( $helper->getConfig('enable_custom_copyright', 0) ) { ?>
-          <?php echo $helper->getConfig('copyright'); ?>
+          <?php echo "2010-2016 Be-Lagam. All Rights Reserved"; //$helper->getConfig('copyright'); 
+          ?>
         <?php } else { ?>
           <?php echo $powered; ?>. 
         <?php } ?>
-    Designed by <a href="http://www.pavothemes.com/" title="Pavothemes - opencart themes clubs">Pavothemes</a>
+<!--    Designed by <a href="http://www.pavothemes.com/" title="Pavothemes - opencart themes clubs">Pavothemes</a> -->
       </div>  
 
       <?php if( $content=$helper->getLangConfig('widget_paypal') ) {?>

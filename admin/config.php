@@ -1,7 +1,7 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://belagam/admin/');
-define('HTTP_CATALOG', 'http://belagam/');
+define('HTTP_SERVER', 'http://belagam.local/admin/');
+define('HTTP_CATALOG', 'http://belagam.local/');
 
 // HTTPS
 define('HTTPS_SERVER', 'http://belagam/admin/');
