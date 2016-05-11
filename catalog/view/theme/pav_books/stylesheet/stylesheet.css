@@ -2664,7 +2664,6 @@ ul.box-filter span {
  * @license		GNU General Public License version 2
 *******************************************************/
 #pav-mainnav {
-  position: relative;
   background: #fff;
 }
 #pav-mainnav .inner-bg {
