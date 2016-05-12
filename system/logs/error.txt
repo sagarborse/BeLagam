@@ -1,0 +1,275 @@
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_event' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_event in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'column_left' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/common/column_left.php on line 48
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'column_right' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/common/column_right.php on line 48
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'content_top' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/common/content_top.php on line 48
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'content_bottom' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/common/content_bottom.php on line 48
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1'    ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/themecontrol.php on line 24
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 594
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_top' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_center' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_bottom' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_top' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_center' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'footer_bottom' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 645
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'mass_bottom' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:35:41 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:35:41 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:35:41 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:35:41 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:35:41 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:35:41 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'full_slideshow' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'slideshow' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'mass_slideshow' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'showcase' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:35:41 - PHP Notice:  Error: Table 'belagam_old.oc_layout_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_layout_module WHERE layout_id = '1' AND position = 'promotion' ORDER BY sort_order in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:35:41 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/layout.php on line 16
+2016-05-12 15:35:41 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/system/pavothemes/framework.php on line 688
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_event' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_event in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:36:46 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '31' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '33' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '34' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '35' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '31' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '33' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '34' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Error: Table 'belagam_old.oc_module' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_module WHERE module_id = '35' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/extension/module.php on line 6
+2016-05-12 15:36:46 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:36:46 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:36:46 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:36:46 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:36:46 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:36:46 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:36:46 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:36:46 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:36:46 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:07 - PHP Notice:  Error: Table 'belagam_old.oc_event' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_event in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/pavsliderlayer.php on line 53
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/view/theme/default/template/module/pavsliderlayer.tpl on line 19
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/pavsliderlayer.php on line 53
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/view/theme/default/template/module/pavsliderlayer.tpl on line 19
+2016-05-12 15:37:07 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:37:07 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:37:07 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:37:07 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:07 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:08 - PHP Notice:  Error: Table 'belagam_old.oc_event' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_event in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:08 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:37:08 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/index.php on line 235
+2016-05-12 15:37:08 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:37:08 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:37:08 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:37:08 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:37:08 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:08 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:08 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:08 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:37:08 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:37:08 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/pavsliderlayer.php on line 53
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/view/theme/default/template/module/pavsliderlayer.tpl on line 19
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'language_id' in 'where clause'<br />Error No: 1054<br /> SELECT * FROM oc_pavosliderlayers    WHERE group_id=1 AND `language_id`=1 AND `status` = 1 ORDER BY position ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/pavsliderlayer/slider.php on line 74
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/pavsliderlayer.php on line 53
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/view/theme/default/template/module/pavsliderlayer.tpl on line 19
+2016-05-12 15:38:05 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:38:05 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:38:05 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:38:05 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:05 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:05 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:06 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:38:06 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:38:06 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:38:06 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:38:06 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:06 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:06 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:06 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:38:06 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:38:06 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:32 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:39:32 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:39:32 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:39:32 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:39:32 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:39:32 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:32 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:32 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:39:32 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:32 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:33 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:39:33 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:39:33 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:39:33 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:39:33 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:39:33 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:33 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:33 - PHP Notice:  Error: Unknown column 'code' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_setting WHERE store_id = '0' AND `code` = 'pavmegamenu_params' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 15:39:33 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:39:33 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/model/setting/setting.php on line 8
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 15:40:23 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:04:50 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/category.php on line 350
+2016-05-12 16:04:50 - PHP Notice:  Error: Unknown column 'bi.sort_order' in 'order clause'<br />Error No: 1054<br />SELECT * FROM oc_banner_image bi LEFT JOIN oc_banner_image_description bid ON (bi.banner_image_id  = bid.banner_image_id) WHERE bi.banner_id = '6' AND bid.language_id = '1' ORDER BY bi.sort_order ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:04:50 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/banner.php on line 6
+2016-05-12 16:04:50 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/banner.php on line 17
+2016-05-12 16:04:50 - PHP Notice:  Error: Unknown column 'bi.sort_order' in 'order clause'<br />Error No: 1054<br />SELECT * FROM oc_banner_image bi LEFT JOIN oc_banner_image_description bid ON (bi.banner_image_id  = bid.banner_image_id) WHERE bi.banner_id = '6' AND bid.language_id = '1' ORDER BY bi.sort_order ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:04:50 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/design/banner.php on line 6
+2016-05-12 16:04:50 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/catalog/controller/module/banner.php on line 17
+2016-05-12 16:04:50 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:04:50 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:04:50 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:04:50 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:05:57 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/category.php on line 350
+2016-05-12 16:05:57 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:05:57 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:05:57 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:05:57 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:06:11 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:06:11 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:06:11 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:06:11 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:06:40 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:06:40 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:06:40 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:06:40 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:07:57 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:07:57 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:07:57 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:07:57 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:07:58 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:07:58 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:07:58 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:07:58 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:07:59 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/category.php on line 350
+2016-05-12 16:07:59 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:07:59 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:07:59 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:07:59 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:08:11 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/search.php on line 431
+2016-05-12 16:08:11 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:08:11 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:08:11 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:08:11 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:08:34 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/search.php on line 431
+2016-05-12 16:08:34 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:08:34 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:08:34 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:08:34 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:14 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:14 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:14 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:14 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:15 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:15 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:15 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:15 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:30 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:30 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:30 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:30 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:31 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:31 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:31 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:31 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:44 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:44 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:44 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:44 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:45 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:45 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:45 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:45 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:46 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:46 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:46 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:46 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:09:47 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/catalog/controller/product/category.php on line 350
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:09:47 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
