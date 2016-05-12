@@ -91,6 +91,10 @@ a {
   color: #868686;
   text-decoration: none;
 }
+#ui-id-1{
+  z-index: 10000002 !important;
+}
+
 a:hover,
 a:focus {
   color: #6f9426;

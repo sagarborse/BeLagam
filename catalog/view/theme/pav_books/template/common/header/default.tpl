@@ -75,8 +75,9 @@ if(!$is_mobile) {
 				<div class="shopping-cart pull-right text-right">
 					<?php echo $cart; ?>
 				</div>	
-				<span class="log-in pull-right"><a href="<?php echo $login; ?>">My <br>Account</span>	
-				<?php echo $search; ?>			
+				<span class="log-in pull-right"><a href="<?php echo $login; ?>">My <br>Account</a></span>		
+				<?php echo $search; ?>		
+
 			</div>
 		</div>
 	</div></div>
