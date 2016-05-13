@@ -273,3 +273,538 @@
 2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
 2016-05-12 16:09:47 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
 2016-05-12 16:09:47 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:12:48 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:12:48 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:12:48 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:12:48 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:12:52 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:15:56 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:15:56 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:15:56 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:15:56 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:16:09 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:16:09 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:16:09 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:16:09 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 58
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 59
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 62
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 63
+2016-05-12 16:17:06 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 14
+2016-05-12 16:17:06 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 22
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:17:06 - PHP Notice:  Error: Table 'belagam_old.oc_affiliate_activity' doesn't exist<br />Error No: 1146<br />SELECT a.key, a.data, a.date_added FROM ((SELECT CONCAT('customer_', ca.key) AS `key`, ca.data, ca.date_added FROM `oc_customer_activity` ca) UNION (SELECT CONCAT('affiliate_', aa.key) AS `key`, aa.data, aa.date_added FROM `oc_affiliate_activity` aa)) a ORDER BY a.date_added DESC LIMIT 0,5 in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:17:06 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/report/activity.php on line 6
+2016-05-12 16:17:06 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/controller/dashboard/activity.php on line 18
+2016-05-12 16:17:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 84
+2016-05-12 16:17:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND DATE(date_added) >= '2016-05-1' GROUP BY DATE(date_added)' at line 1<br />Error No: 1064<br />SELECT COUNT(*) AS total, date_added FROM `oc_order` WHERE order_status_id IN() AND DATE(date_added) >= '2016-05-1' GROUP BY DATE(date_added) in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:17:07 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 101
+2016-05-12 16:17:07 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 101
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 58
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 59
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 62
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 63
+2016-05-12 16:18:49 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 14
+2016-05-12 16:18:49 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 22
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:49 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:18:50 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 84
+2016-05-12 16:18:50 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND DATE(date_added) >= '2016-05-1' GROUP BY DATE(date_added)' at line 1<br />Error No: 1064<br />SELECT COUNT(*) AS total, date_added FROM `oc_order` WHERE order_status_id IN() AND DATE(date_added) >= '2016-05-1' GROUP BY DATE(date_added) in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:18:50 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 101
+2016-05-12 16:18:50 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/model/report/sale.php on line 101
+2016-05-12 16:19:26 - PHP Warning:  Division by zero in /Applications/MAMP/htdocs/belagam/admin/controller/sale/order.php on line 536
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 58
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 59
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 62
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 63
+2016-05-12 16:19:26 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 14
+2016-05-12 16:19:26 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 22
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:19:26 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 58
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 59
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 62
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 63
+2016-05-12 16:24:42 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 14
+2016-05-12 16:24:42 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 22
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:24:42 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 62
+2016-05-12 16:26:56 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/header.php on line 63
+2016-05-12 16:26:56 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:26:56 - PHP Warning:  implode(): Invalid arguments passed in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 14
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  array_merge(): Argument #1 is not an array in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:26:56 - PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/belagam/admin/controller/common/stats.php on line 37
+2016-05-12 16:27:52 - PHP Notice:  Undefined index: image in /Applications/MAMP/htdocs/belagam/admin/controller/common/profile.php on line 19
+2016-05-12 16:32:40 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:32:40 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:32:40 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:32:40 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:32:48 - PHP Notice:  Error: Table 'belagam_old.oc_modification' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_modification WHERE  `code` LIKE '%PAVOFRAMEWORK4%' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:32:48 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/setting/themecontrol.php on line 31
+2016-05-12 16:32:48 - PHP Notice:  Undefined index: xml in /Applications/MAMP/htdocs/belagam/admin/model/extension/modification.php on line 4
+2016-05-12 16:32:48 - PHP Notice:  Error: Table 'belagam_old.oc_modification' doesn't exist<br />Error No: 1146<br />INSERT INTO oc_modification SET code = 'PAVOFRAMEWORK4', name = '<font color=\"#0000\"><b>Pavo Framework 3.0</font>', author = 'pavothemes', version = '1', link = 'http://www.pavothemes.com', xml = '', status = '1', date_added = NOW() in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:34:02 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:34:05 - PHP Notice:  Error: Table 'belagam_old.oc_recurring_description' doesn't exist<br />Error No: 1146<br />SELECT `pd`.* FROM `oc_product_recurring` `pp` JOIN `oc_recurring_description` `pd` ON `pd`.`language_id` = 1 AND `pd`.`recurring_id` = `pp`.`recurring_id` JOIN `oc_recurring` `p` ON `p`.`recurring_id` = `pd`.`recurring_id` WHERE `product_id` = 2385 AND `status` = 1 AND `customer_group_id` = 1 ORDER BY `sort_order` ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:34:05 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/catalog/product.php on line 495
+2016-05-12 16:34:05 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:34:05 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:34:05 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:34:05 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:35:18 - PHP Notice:  Error: Table 'belagam_old.oc_recurring' doesn't exist<br />Error No: 1146<br />SELECT `pd`.* FROM `oc_product_recurring` `pp` JOIN `oc_recurring_description` `pd` ON `pd`.`language_id` = 1 AND `pd`.`recurring_id` = `pp`.`recurring_id` JOIN `oc_recurring` `p` ON `p`.`recurring_id` = `pd`.`recurring_id` WHERE `product_id` = 2385 AND `status` = 1 AND `customer_group_id` = 1 ORDER BY `sort_order` ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:35:18 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/catalog/model/catalog/product.php on line 495
+2016-05-12 16:35:18 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:35:18 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:35:18 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:35:18 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:35:54 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:35:54 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:35:54 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:35:54 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:36:04 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:36:04 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:36:04 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:36:04 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:36:05 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:36:05 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:36:05 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:36:05 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:39:04 - PHP Notice:  Error: Table 'belagam_old.oc_location' doesn't exist<br />Error No: 1146<br />SELECT location_id, name, address FROM oc_location ORDER BY name ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:39:04 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/localisation/location.php on line 55
+2016-05-12 16:39:04 - PHP Notice:  Error: Table 'belagam_old.oc_api' doesn't exist<br />Error No: 1146<br />SELECT * FROM `oc_api` ORDER BY username ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:39:04 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/user/api.php on line 57
+2016-05-12 16:39:04 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/view/template/setting/setting.tpl on line 663
+2016-05-12 16:39:33 - PHP Notice:  Error: Table 'belagam_old.oc_api' doesn't exist<br />Error No: 1146<br />SELECT * FROM `oc_api` ORDER BY username ASC in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-12 16:39:33 - PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/belagam/admin/model/user/api.php on line 57
+2016-05-12 16:39:33 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/belagam/admin/view/template/setting/setting.tpl on line 663
+2016-05-12 16:42:22 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:42:22 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:42:22 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:42:22 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:42:23 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:42:23 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:42:23 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:42:23 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:43:00 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:43:00 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:43:00 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:43:00 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 16:43:01 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 16:43:01 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 16:43:01 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 16:43:01 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:10:48 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:10:48 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:10:48 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:10:48 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:10:49 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:10:49 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:10:49 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:10:49 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:13:59 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:13:59 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:13:59 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:13:59 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:14:00 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:14:00 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:14:00 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:14:00 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:15:00 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:15:00 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:15:00 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:15:00 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:15:01 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:15:01 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:15:01 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:15:01 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:15:18 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:15:18 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:15:18 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:15:18 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:15:19 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:15:19 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:15:19 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:15:19 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:16:28 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:16:28 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:16:28 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:16:28 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:16:29 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:16:29 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:16:29 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:16:29 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:17:48 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:17:48 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:17:48 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:17:48 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:17:49 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:17:49 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:17:49 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:17:49 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:19:51 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:20:13 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:21 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:21 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:21 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:21 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:26 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:26 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:26 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:26 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:27 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:27 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:27 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:27 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:29 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:29 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:29 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:29 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:39 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:39 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:39 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:39 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:43 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:43 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:43 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:43 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:21:45 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:21:45 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:21:45 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:21:45 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:01 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:01 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:01 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:01 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:02 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:02 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:02 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:02 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:03 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:03 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:03 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:03 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:04 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:04 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:04 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:04 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:21 - PHP Notice:  Undefined variable: search_field_show_price in /Applications/MAMP/htdocs/belagam/admin/view/template/module/search_suggestion.tpl on line 255
+2016-05-12 17:27:21 - PHP Notice:  Undefined variable: search_field_show_name in /Applications/MAMP/htdocs/belagam/admin/view/template/module/search_suggestion.tpl on line 255
+2016-05-12 17:27:31 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:31 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:31 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:31 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:32 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:32 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:32 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:32 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:36 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:36 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:36 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:36 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:51 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:27:51 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:27:51 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:27:51 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:27:57 - PHP Notice:  Undefined variable: search_field_show_price in /Applications/MAMP/htdocs/belagam/admin/view/template/module/search_suggestion.tpl on line 255
+2016-05-12 17:27:57 - PHP Notice:  Undefined variable: search_field_show_name in /Applications/MAMP/htdocs/belagam/admin/view/template/module/search_suggestion.tpl on line 255
+2016-05-12 17:28:41 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:28:41 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:28:41 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:28:41 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:29:49 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:29:49 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:29:49 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:29:49 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:30:37 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:30:37 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:30:37 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:30:37 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:38:38 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:38:38 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:38:38 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:38:38 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:40:44 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:40:44 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:40:44 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:40:44 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: meta_title in /Applications/MAMP/htdocs/belagam/catalog/controller/information/information.php on line 24
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: meta_description in /Applications/MAMP/htdocs/belagam/catalog/controller/information/information.php on line 25
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: meta_keyword in /Applications/MAMP/htdocs/belagam/catalog/controller/information/information.php on line 26
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:41:04 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:45:59 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:45:59 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:45:59 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:45:59 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:47:18 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:47:18 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:47:18 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:47:18 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 17:47:19 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 17:47:19 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 17:47:19 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 17:47:19 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:26:50 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:26:50 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:26:50 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:26:50 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:28:38 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:28:38 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:28:38 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:28:38 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:28:44 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:28:44 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:28:44 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:28:44 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:29:08 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:29:08 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:29:08 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:29:08 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:29:12 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:29:12 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:29:12 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:29:12 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:29:19 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:29:21 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:29:21 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:29:21 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:29:21 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:30:40 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:30:40 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:30:40 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:30:40 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:30:45 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:30:45 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:30:45 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:30:45 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:30:48 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:30:48 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:30:48 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:30:48 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:31:06 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:31:06 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:31:06 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:31:06 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:31:07 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:31:07 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:31:07 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:31:07 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:33:26 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:33:26 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:33:26 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:33:26 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 18:33:28 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 18:33:28 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 18:33:28 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 18:33:28 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 19:16:49 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 19:16:49 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 19:16:49 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 19:16:49 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 19:16:50 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 19:16:50 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 19:16:50 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 19:16:50 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 19:18:30 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 19:18:30 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 19:18:30 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 19:18:30 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-12 19:18:31 - PHP Notice:  Undefined index: fontsize1 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 118
+2016-05-12 19:18:31 - PHP Notice:  Undefined index: fontsize2 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 119
+2016-05-12 19:18:31 - PHP Notice:  Undefined index: fontsize3 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 120
+2016-05-12 19:18:31 - PHP Notice:  Undefined index: body_selector4 in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header.tpl on line 125
+2016-05-13 11:30:48 - PHP Notice:  Undefined variable: is_mobile in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header/default.tpl on line 49
+2016-05-13 11:30:48 - PHP Notice:  Undefined variable: is_mobile in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header/default.tpl on line 144
+2016-05-13 11:30:51 - PHP Notice:  Undefined variable: is_mobile in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header/default.tpl on line 49
+2016-05-13 11:30:51 - PHP Notice:  Undefined variable: is_mobile in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header/default.tpl on line 144
+2016-05-13 12:14:40 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:14:43 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:34:10 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:34:26 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:39:55 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:40:50 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:41:31 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:43:48 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 12:51:55 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:11:10 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:16:22 - PHP Notice:  Undefined variable: detect in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/header/default.tpl on line 14
+2016-05-13 13:17:27 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:18:05 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:18:14 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:18:46 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:19:35 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 13:21:53 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 14:00:05 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 14:00:57 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7

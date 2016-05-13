@@ -1,5 +1,12 @@
 <?php echo $header; ?> <?php require( PAVO_THEME_DIR."/template/common/config_layout.tpl" );  ?>
 
+<div class="welcome-msg-ctr" style="width:100%">
+	<div class="welcome-ribbon">Welcome</div>
+	<div class="welcome-triangle"></div>
+	<div class="welcome-msg">New to Be-Lagam? Get Amazing Offers and Discounts!
+	<span data-modal="sign-up-modal"><a href="<?php echo $login; ?>">Sign up &amp; Learn</a></span></div>
+</div>
+
 <div class="warpper">
 	<div class="container">
 		<div class="row">

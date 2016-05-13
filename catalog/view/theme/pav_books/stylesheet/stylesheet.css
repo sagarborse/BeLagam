@@ -38,6 +38,60 @@ html {
   margin: 0;
   padding: 0;
 }
+body{
+  position: relative;
+}
+.overlay{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100000000000001;
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+.welcome-msg-ctr {
+  margin-top:20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.welcome-msg-ctr .welcome-msg span, .welcome-msg-ctr .welcome-msg span a{
+    color: #cd3232;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.welcome-msg-ctr .welcome-msg {
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.welcome-msg-ctr .welcome-ribbon {
+    height: 30px;
+    padding-left: 20px;
+    width: 100px;
+    display: inline-block;
+    font-weight: bold;
+    color: #fff;
+    line-height: 30px;
+    background-color: #322f2e;
+    border-radius: 4px;
+    font-size: 14px;
+    text-align: left;
+}
+
+.welcome-msg-ctr .welcome-triangle {
+    margin-top: -4px;
+    margin-left: -5px;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid #322f2e;
+    display: inline-block;
+}
+
 .fs9 {
   font-size: 9px;
 }
@@ -732,7 +786,8 @@ body.layout-boxed-lg #page {
 }
 #footer .footer-center {
  /* background: url("../image/bg_footer_center.png") repeat 0 0;*/
-  background: #272e3a;
+ background: #272e3a;
+ background-image: url("http://belagam.local/catalog/view/theme/pav_books/image/pattern/pattern13.png");
 }
 #footer .footer-center .inner {
   padding: 60px 0 20px;
@@ -2700,11 +2755,11 @@ ul.box-filter span {
   border-top: 4px solid #cd3232;
 }
 #pav-mainnav .navbar ul.nav > li:hover .caret {
-  border-bottom-color: #6f9426;
-  border-top-color: #6f9426;
+  border-bottom-color: #CD3232;
+  border-top-color: #CD3232;
 }
 #pav-mainnav .navbar ul.nav > li:hover > a {
-  color: #6f9426;
+  color: #CD3232;
 }
 #pav-mainnav .navbar ul.nav > li:hover.parent > a:before,
 #pav-mainnav .navbar ul.nav > li:hover.parent > a:after {
@@ -2726,7 +2781,7 @@ ul.box-filter span {
 }
 #pav-mainnav .navbar ul.nav > li:hover.parent > a:before {
   border-color: transparent;
-  border-bottom-color: #6f9426;
+  border-bottom-color: #cd3232;
   border-width: 13px;
   margin-left: -13px;
 }
@@ -3013,7 +3068,7 @@ ul.box-filter span {
 }
 /* back top top */
 .scrollup {
-  background: #6f9426;
+  background:#663399;
   bottom: 82px;
   display: none;
   position: fixed;

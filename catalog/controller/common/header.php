@@ -1,6 +1,11 @@
 <?php
+require_once 'Mobile_Detect.php';
+
+
 class ControllerCommonHeader extends Controller {
 	public function index() {
+
+		$data['detect'] = new Mobile_Detect;
 		$data['title'] = $this->document->getTitle();
 
 		if ($this->request->server['HTTPS']) {

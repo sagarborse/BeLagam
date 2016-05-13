@@ -23,6 +23,16 @@ function getURLVar(key) {
 }
 
 $(document).ready(function() {
+
+	$("#search input").focus(function(){
+	//we add the css class blur to the elements that we would like to blur on focus
+	    $("html").addClass("overlay");
+	    //$("p").addClass("blur");
+	}).blur(function(){
+	//we remove the blur class which will remove the blur from the elements specified when we are no longer focused on an input
+	    $("html").removeClass("overlay");
+	    //$("p").removeClass("blur");
+	});
 	// Adding the clear Fix
 	cols1 = $('#column-right, #column-left').length;
 	
