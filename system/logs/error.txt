@@ -808,3 +808,6 @@
 2016-05-13 13:21:53 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
 2016-05-13 14:00:05 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
 2016-05-13 14:00:57 - PHP Notice:  Undefined variable: login in /Applications/MAMP/htdocs/belagam/catalog/view/theme/pav_books/template/common/home.tpl on line 7
+2016-05-13 17:43:46 - PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/belagam/catalog/model/account/customer.php on line 20
+2016-05-13 17:43:46 - PHP Notice:  Error: Unknown column 'custom_field' in 'field list'<br />Error No: 1054<br />INSERT INTO oc_address SET customer_id = '78', firstname = 'Sagar', lastname = 'Borse', company = '', address_1 = 'asgasbsfa', address_2 = '', city = 'asvs', postcode = '', country_id = '99', zone_id = '1476', custom_field = '' in /Applications/MAMP/htdocs/belagam/system/library/db/mysqli.php on line 41
+2016-05-13 17:43:46 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/belagam/index.php:98) in /Applications/MAMP/htdocs/belagam/system/library/response.php on line 12
