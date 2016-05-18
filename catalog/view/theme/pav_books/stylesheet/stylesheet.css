@@ -2748,7 +2748,7 @@ ul.box-filter span {
   border-top: 4px solid transparent;
 }
 #pav-mainnav .navbar ul.nav > li:first-child {
-  background: url("../image/icon-home.png") no-repeat left center;
+  background: url("../image/icon-home.png") no-repeat 7px 15px;
   padding-left: 15px;
 }
 #pav-mainnav .navbar ul.nav > li:hover {
@@ -2985,7 +2985,7 @@ ul.box-filter span {
 }
 
 .pav-megamenu .pav-megamenu {
-  margin-left: 200px;
+  margin-left: 220px;
 }
 /******************************************************
  * @package Pav Opencart Theme Framework for Opencart 1.5.x
