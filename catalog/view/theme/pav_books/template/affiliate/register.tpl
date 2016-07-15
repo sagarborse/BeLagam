@@ -14,7 +14,7 @@
    <?php require( ThemeControlHelper::getLayoutPath( 'common/mass-container.tpl' )  ); ?>
    <div id="content"><?php echo $content_top; ?>
       <h1><?php echo $heading_title; ?></h1>
-      <p><?php echo $text_account_already; ?></p>
+       <p><?php echo $text_account_already; ?></p>
       <p><?php echo $text_signup; ?></p>
       <form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data" class="form-horizontal">
         <fieldset>
